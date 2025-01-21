@@ -11,10 +11,10 @@ function App() {
         
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          We're renewing from old
+          We're renewing
         </p>
         <a>
-          Visit us <a
+          Visit us from old<a
           className="App-link"
           href="https://www.thebadger.house/"
           target="_blank"
