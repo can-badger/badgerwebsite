@@ -11,7 +11,7 @@ function App() {
         
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          We're renewing
+          We're renewing from old
         </p>
         <a>
           Visit us <a
@@ -20,7 +20,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          from old site
+           site
         </a>
         </a>
         
